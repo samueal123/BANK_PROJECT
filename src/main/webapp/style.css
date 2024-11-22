@@ -1,0 +1,20 @@
+@charset "UTF-8";
+body {
+    background-image: url('Bank.jpg'); /* Add your background image here */
+    background-size: cover;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    width: 50%;
+    margin: auto;
+    background: rgba(0, 0, 0, 0.7);
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+h2 {
+    color: #ffcc00;
+}
